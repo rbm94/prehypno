@@ -4,9 +4,9 @@
 
     <footer class="row">
         <div class="col-md-12">
-        <a href="#" class="col-md-4 btn">fb</a>
-        <a href="#" class="col-md-4 btn">link</a>
-        <a href="#" class="col-md-3 btn">twitter</a>
+        <a href="../lib/image/img/linkedin.png" class="col-md-4 btn"> <img src="../lib/img/facebook.png" alt=""> </a>
+        <a href="../lib/image/img/facebook.png" class="col-md-4 btn"> <img src="../lib/img/linkedin.png" alt=""> </a>
+        <a href="#" class="col-md-3 btn"> <img src="../lib/img/twitter.png" alt=""> </a>
         </div>
     </footer><!-- Fin footer -->
 
